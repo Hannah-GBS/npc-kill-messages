@@ -71,7 +71,7 @@ public class ToxicNPCSPlugin extends Plugin {
                 tickCount = 0;
                 textSet = false;
             }
-            else if (tickCount < 3) {
+            else if (tickCount < 6) {
                 tickCount += 1;
             }
         }
