@@ -22,7 +22,7 @@ import java.util.List;
         loadWhenOutdated = true,
         enabledByDefault = false
 )
-public class ToxicNPCSPlugin extends Plugin {
+public class ToxicNpcsPlugin extends Plugin {
 
     @Inject
     private Client client;
